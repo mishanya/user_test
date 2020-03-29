@@ -6,4 +6,4 @@ run sequelize db:migrate
 
 run sequelize db:seed:all
 
-npm run dev
+npm start
